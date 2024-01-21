@@ -1,0 +1,21 @@
+.todoContainer {
+	padding: 1rem 7px;
+	border: none;
+	box-shadow: 3px 3px 4px rgb(179, 177, 177);
+	border-radius: 7px;
+}
+.todo {
+	padding: 0 10px;
+	text-align: justify;
+	word-break: break-word;
+	line-height: 150%;
+	width: 33.5rem;
+	height: 100%;
+	margin-bottom: 1rem;
+	font-size: 1rem;
+}
+.todoBtnContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}

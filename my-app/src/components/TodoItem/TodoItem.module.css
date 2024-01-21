@@ -1,0 +1,8 @@
+.todo {
+	text-align: justify;
+	width: 28rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 1rem;
+}
